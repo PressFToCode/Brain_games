@@ -8,12 +8,12 @@ git clone https://github.com/PressFToCode/Brain_games.git
 
 Linux
 ```bash
-python3 bin/brain_games/brain_games.py
+python3 bin/brain_games/brain_games.py  # Из корневой папки проекта
 ```
 
 Window
 ```powershell
-.\bin\brain_games\brain_games.py
+.\bin\brain_games\brain_games.py    # Из корневой папки проекта
 ```
 
 ## Аскиинема демонстрирующая демо версию игры
