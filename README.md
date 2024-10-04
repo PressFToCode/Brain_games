@@ -1,5 +1,20 @@
 # Добро пожаловать в Brain-games!
 
+## Инструкция по запуску игры
+```
+git clone https://github.com/PressFToCode/Brain_games.git
+```
+
+Linux
+```bash
+python3 bin/brain_games/brain_games.py
+```
+
+Window
+```powershell
+.\bin\brain_games\brain_games.py
+```
+
 ## Аскиинема демонстрирующая демо версию игры
 
 [![asciicast](https://asciinema.org/a/ZQIdEhKr3ztrn19P5AAfSZTbA.svg)](https://asciinema.org/a/ZQIdEhKr3ztrn19P5AAfSZTbA)
